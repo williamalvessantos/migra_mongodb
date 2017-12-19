@@ -2,7 +2,7 @@
 Migração MongoDB
 ================
 
-##Utilizando docker como ferramenta auxiliar##
+## Utilizando docker como ferramenta auxiliar ##
 
 **Entendendo a necessidade:**
 
