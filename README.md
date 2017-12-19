@@ -32,6 +32,8 @@ Como parte do exercício, foi criado uma base de dados mongoDB no site mLab.com,
 
 ![enter image description here](https://raw.githubusercontent.com/williamalvessantos/migra_mongodb/master/Captura%20de%20Tela%202017-12-18%20a%CC%80s%2023.39.20.png)
 
+Os dados são fictícios, foram inseridos para que possamos ter a melhor percepção do tempo de processamento, dump e restore.
+
 Optei em utilizar um container para receber os dados, simplificar o processo, conferir e validar os dados, não poderia deixar para depois e ter uma surpresa no futuro. Tudo deve ocorrer conforme a execução esperada. Não é necessário ter o mongoDB instalado na máquina, será utilizado o mongoDB do próprio container.
 
 Esse procedimento possui fins didáticos, e talvez seja necessário ajustar os scripts para sua realidade.
