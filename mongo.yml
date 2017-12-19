@@ -1,0 +1,14 @@
+version: '2'
+services:
+  db-mongo-clone:
+    restart: always
+    image: mongo
+    container_name: mongo_clone
+    expose:
+     - 27017
+    ports:
+     - "27017:27017"
+    volumes:
+     - ./DB/:/data/db
+     - ./DMP/:/data/dump
+     - ./:/data/configdb/
