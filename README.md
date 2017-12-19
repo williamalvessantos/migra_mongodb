@@ -1,4 +1,6 @@
-![enter image description here](https://raw.githubusercontent.com/williamalvessantos/migra_mongodb/master/migration-fish.jpg?style=centerme)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/williamalvessantos/migra_mongodb/master/migration-fish.jpg">
+</p>
 
 Migração MongoDB
 ================
