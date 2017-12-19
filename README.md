@@ -28,7 +28,7 @@ Mesmo assim, seria necessário a execução do processo de forma parametrizada, 
 
 Ambiente Linux, Mac OS e derivados, docker instalado na máquina que irá executar esse processo, eu realizei essa POC utilizando um Mac.
 
-Como parte do exercício, foi criado uma base de dados mongoDB no site mLab.com, fornece gratuitamente 500MB para sandbox, e isso é muito mais que suficiente para nosso experimento, e consumindo 29MB de espaço em disco.
+Como parte do exercício, foi criado uma base de dados mongoDB no site mLab.com, fornece gratuitamente 500MB para sandbox, e isso é muito mais que suficiente para nosso experimento, e consumindo 112MB de espaço em disco.
 
 ![enter image description here](https://raw.githubusercontent.com/williamalvessantos/migra_mongodb/master/Captura%20de%20Tela%202017-12-18%20a%CC%80s%2023.39.20.png)
 
@@ -48,7 +48,7 @@ Para facilitar a atividade utilizei um arquivo de configuração, dessa forma ac
     
     [MONGODB_ORIGEN]
     HOST = ds011241.mlab.com  ; host name
-    DBNM = p0c		          ; db name
+    DBNM = p0c		            ; db name
     PORT = 11241              ; mongo port
     USER = mongo_poc          ; dbuser
     PASS = Mongo_123          ; dbpass
