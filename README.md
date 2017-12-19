@@ -1,7 +1,7 @@
 
 Migração MongoDB
 ================
-## Realiza o export e o import com validação em container com o mongoDB ##
+## Realiza o export/import com validação em container com o mongoDB ##
 
 **Entendendo a necessidade:**
 
