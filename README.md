@@ -48,14 +48,14 @@ Para facilitar a atividade utilizei um arquivo de configuração, dessa forma ac
     
     [MONGODB_ORIGEN]
     HOST = ds011241.mlab.com  ; host name
-    DBNM = p0c		            ; db name
+    DBNM = p0c		          ; db name
     PORT = 11241              ; mongo port
     USER = mongo_poc          ; dbuser
     PASS = Mongo_123          ; dbpass
     
     [MONGODB_DESTINO]
     HOST = localhost          ; host name
-    DBNM = p0c .              ; db name
+    DBNM = p0c                ; db name
     PORT = 27017              ; mongo port
     USER = admin              ; user
     PASS = admin              ; password
