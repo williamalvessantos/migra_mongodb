@@ -55,7 +55,7 @@ Para facilitar a atividade utilizei um arquivo de configuração, dessa forma ac
     
     [MONGODB_DESTINO]
     HOST = localhost          ; host name
-    DBNM = p0c                ; db name
+    DBNM = p0c .              ; db name
     PORT = 27017              ; mongo port
     USER = admin              ; user
     PASS = admin              ; password
