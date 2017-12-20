@@ -69,7 +69,12 @@ Para rodar é necessário executar o comando, e passar o arquivo de configuraç�
 
 **Script:** migra_mongo.sh
 
+    
+    git clone https://github.com/williamalvessantos/migra_mongodb
+    cd migra_mongodb
+    chmod 755 *.sh
     ./migrar_mongo.sh migra_sample.cfg
+
 
 Após disparo do script todos os passos irão ser explicados em tempo de execução.
 
